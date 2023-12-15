@@ -430,7 +430,7 @@ public class Serial extends CordovaPlugin {
 	 */
 	private void onDeviceStateChange() {
 		stopIoManager();
-		startIoManager();
+		//startIoManager();
 	}
 
 	/**
